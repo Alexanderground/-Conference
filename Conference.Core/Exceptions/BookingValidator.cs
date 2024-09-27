@@ -1,0 +1,4 @@
+﻿namespace Conference.Core.Exceptions
+{
+
+}
