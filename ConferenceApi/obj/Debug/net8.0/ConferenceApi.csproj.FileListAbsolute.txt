@@ -1,0 +1,6 @@
+C:\Users\sasha\source\repos\ConferenceApi\ConferenceApi\obj\Debug\net8.0\ConferenceApi.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\ConferenceApi\ConferenceApi\obj\Debug\net8.0\ConferenceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\ConferenceApi\ConferenceApi\obj\Debug\net8.0\ConferenceApi.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\ConferenceApi\ConferenceApi\obj\Debug\net8.0\ConferenceApi.AssemblyInfo.cs
+C:\Users\sasha\source\repos\ConferenceApi\ConferenceApi\obj\Debug\net8.0\ConferenceApi.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\ConferenceApi\ConferenceApi\obj\Debug\net8.0\ConferenceApi.MvcApplicationPartsAssemblyInfo.cache
