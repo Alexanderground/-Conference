@@ -1,4 +1,0 @@
-﻿namespace Conference.Core.Exceptions
-{
-
-}

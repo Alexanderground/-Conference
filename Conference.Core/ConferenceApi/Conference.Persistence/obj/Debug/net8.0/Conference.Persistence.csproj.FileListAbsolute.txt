@@ -1,5 +1,0 @@
-C:\Users\sasha\source\repos\ConferenceApi\Conference.Persistence\obj\Debug\net8.0\Conference.Persistence.csproj.AssemblyReference.cache
-C:\Users\sasha\source\repos\ConferenceApi\Conference.Persistence\obj\Debug\net8.0\Conference.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sasha\source\repos\ConferenceApi\Conference.Persistence\obj\Debug\net8.0\Conference.Persistence.AssemblyInfoInputs.cache
-C:\Users\sasha\source\repos\ConferenceApi\Conference.Persistence\obj\Debug\net8.0\Conference.Persistence.AssemblyInfo.cs
-C:\Users\sasha\source\repos\ConferenceApi\Conference.Persistence\obj\Debug\net8.0\Conference.Persistence.csproj.CoreCompileInputs.cache
